@@ -13,9 +13,9 @@ A real, frozen run of the pipeline against the US most-active screener (top 5, n
 
 ## Preview the HTML digest
 
-GitHub doesn't render HTML files inline. To see the rendered digest, open it through htmlpreview:
+GitHub doesn't render HTML files inline, but this repo publishes the digest via GitHub Pages:
 
-> https://htmlpreview.github.io/?https://github.com/grimgrimberg/daily-movers-agent/blob/main/examples/sample-run/digest.html
+> **<https://grimgrimberg.github.io/daily-movers-agent/examples/sample-run/digest.html>**
 
 Or clone the repo and open `examples/sample-run/digest.html` locally.
 
