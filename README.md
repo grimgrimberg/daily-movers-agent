@@ -10,6 +10,18 @@ If you only want to run it: follow **Quickstart** and ignore the rest.
 
 ---
 
+## Output preview
+
+A run produces a single-file HTML digest (also delivered as `digest.eml` and `report.xlsx`):
+
+![Daily movers HTML digest — US most-active](digest-full-page.png)
+
+Multi-market watchlist mode renders the same digest across regions in one report:
+
+![Multi-market digest — watchlist across exchanges](multi-market-digest-full.png)
+
+---
+
 ## Quickstart (2 minutes)
 
 ### 1) Create a venv + install deps
