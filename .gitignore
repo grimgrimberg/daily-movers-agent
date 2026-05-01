@@ -11,3 +11,5 @@ runs/
 .playwright-mcp/
 
 .venv/
+
+.codex/
