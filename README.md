@@ -202,19 +202,19 @@ python -m daily_movers run --mode movers --region us --source most-active --top 
 
 Movers (regional universe ranking):
 
-```ash
+```bash
 python -m daily_movers run --mode movers --region eu --source universe --top 20 --out runs/eu-top20
 ```
 
 Watchlist:
 
-```ash
+```bash
 python -m daily_movers run --mode watchlist --watchlist watchlist.yaml --top 60 --out runs/watchlist
 ```
 
 Don’t auto-open the browser:
 
-```ash
+```bash
 python -m daily_movers run --mode movers --region us --top 5 --no-open
 ```
 
@@ -246,6 +246,7 @@ See `docs/TECHNICAL_OVERVIEW.md` for architecture, reasoning logic, and system b
 - `docs/TECHNICAL_OVERVIEW.md`
 - `docs/DEPLOYMENT.md`
 - `docs/OBSERVABILITY.md`
+- `docs/threat-model.md`
 
 ---
 
