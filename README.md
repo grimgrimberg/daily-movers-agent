@@ -132,7 +132,7 @@ tests/                     # unit + golden + adversarial tests
 - [docs/OBSERVABILITY.md](docs/OBSERVABILITY.md) — structured logs, run metadata, suggested metrics
 - [docs/BUSINESS_CONCEPT.md](docs/BUSINESS_CONCEPT.md) — problem framing and stakeholder view
 - [docs/threat-model.md](docs/threat-model.md) — threat model and trust boundaries
-- [security_best_practices_report.md](security_best_practices_report.md) — security posture summary
+- [docs/security-report.md](docs/security-report.md) — security posture summary
 - [specs/](specs/) — design constitution, spec, execution plan, prompt templates
 
 ---
