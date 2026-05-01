@@ -1,3 +1,5 @@
+# Threat Model
+
 ## Executive summary
 This repository is a local CLI pipeline that fetches market data, enriches it, runs an agentic analysis, and renders HTML/Excel/email outputs. The highest-risk themes are outbound dependency trust (Yahoo/OpenAI/SMTP), credential handling (OpenAI/SMTP), and supply-chain reproducibility. There is no inbound network service, so remote attackers are limited to influencing upstream data or compromising the local runtime.
 
