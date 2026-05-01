@@ -1,0 +1,42 @@
+{
+  "run_id": "a499716e7564",
+  "requested_date": "2026-05-01",
+  "mode": "movers",
+  "region": "us",
+  "source": "auto",
+  "top": 5,
+  "out_dir": "runs/sample-run",
+  "started_at": "2026-05-01T21:05:22.442405+00:00",
+  "ended_at": "2026-05-01T21:05:22.636799+00:00",
+  "status": "success",
+  "summary": {
+    "processed": 5,
+    "error_rows": 0,
+    "needs_review": 0,
+    "fallback_rows": 0,
+    "email_sent": false,
+    "openai_attempted": false,
+    "openai_used": false,
+    "openai_used_rows": 0,
+    "openai_fallback_rows": 0,
+    "langgraph_rows": 5,
+    "top_pick": "INTC",
+    "most_potential": null,
+    "top_pick_count": 1,
+    "most_potential_count": 0
+  },
+  "email": {
+    "attempted": false,
+    "sent": false,
+    "status": "eml_only",
+    "error": null,
+    "backend": "eml"
+  },
+  "timings_ms": {
+    "ingestion": 0,
+    "processing": 185,
+    "rendering": 5,
+    "email": 1,
+    "total": 193
+  }
+}

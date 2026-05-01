@@ -8,6 +8,8 @@ An agentic AI pipeline that fetches the day's market movers from Yahoo Finance, 
 
 ![Daily movers HTML digest — US most-active](digest-full-page.png)
 
+> **See it without running it:** a frozen sample run lives at [`examples/sample-run/`](examples/sample-run/) — the rendered digest is viewable [via htmlpreview](https://htmlpreview.github.io/?https://github.com/grimgrimberg/daily-movers-agent/blob/main/examples/sample-run/digest.html).
+
 ---
 
 ## What it does
